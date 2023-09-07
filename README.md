@@ -2,7 +2,7 @@
 - 👋 I’m @YoungChopin!
 - 🌱 I’m currently learning java
 - 💞️ I love playing the Piano
-- 📫 For Contact add me on discord: Mikrowelle#0993
+- 📫 For Contact add me on discord: YoungChopin
 
 My Github Activity:
 
